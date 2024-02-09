@@ -6,7 +6,6 @@ https://github.com/cristiklein/node-hostname
 
 ## Clone this repo
 git clone https://github.com/jolarsso/node-hostname-k8s.git
-cd into it
 
 ## Build containerized version of app
 
