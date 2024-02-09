@@ -17,6 +17,7 @@ docker build -t jonteponte71/node-hostname
 
 ### Push to docker hub
 docker login jonteponte71
+
 docker push jonteponte71/node-hostname
 
 ## Deploy application to k8s
